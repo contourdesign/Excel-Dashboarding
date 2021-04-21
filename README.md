@@ -1,2 +1,2 @@
 # Excel-Dashboarding
-Interactive and expandable business dashboards
+Interactive and expandable business dashboard
